@@ -1,0 +1,26 @@
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.exe
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.deps.json
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.runtimeconfig.json
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.runtimeconfig.dev.json
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.dll
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.pdb
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.AssemblyInfoInputs.cache
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.AssemblyInfo.cs
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.csproj.CoreCompileInputs.cache
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.dll
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.pdb
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.genruntimeconfig.cache
+C:\Users\detec\source\repos\HyperSpace Cheese Battle\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.csproj.AssemblyReference.cache
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.csproj.AssemblyReference.cache
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.AssemblyInfoInputs.cache
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.AssemblyInfo.cs
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.csproj.CoreCompileInputs.cache
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.dll
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.pdb
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.exe
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.deps.json
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.runtimeconfig.json
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.runtimeconfig.dev.json
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.dll
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\bin\Debug\netcoreapp3.1\HyperSpace Cheese Battle.pdb
+F:\CSharpProject\LearningCSharp\HyperSpace Cheese Battle\obj\Debug\netcoreapp3.1\HyperSpace Cheese Battle.genruntimeconfig.cache

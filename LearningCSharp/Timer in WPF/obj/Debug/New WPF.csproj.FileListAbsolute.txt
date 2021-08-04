@@ -1,0 +1,30 @@
+C:\Users\detec\source\repos\New WPF\New WPF\bin\Debug\New WPF.exe.config
+C:\Users\detec\source\repos\New WPF\New WPF\bin\Debug\New WPF.exe
+C:\Users\detec\source\repos\New WPF\New WPF\bin\Debug\New WPF.pdb
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\New WPF.csprojAssemblyReference.cache
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\MainWindow.g.cs
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\App.g.cs
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\New WPF_MarkupCompile.cache
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\New WPF_MarkupCompile.lref
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\MainWindow.baml
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\New WPF.g.resources
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\New_WPF.Properties.Resources.resources
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\New WPF.csproj.GenerateResource.cache
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\New WPF.csproj.CoreCompileInputs.cache
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\New WPF.exe
+C:\Users\detec\source\repos\New WPF\New WPF\obj\Debug\New WPF.pdb
+F:\CSharpProject\LearningCSharp\Timer in WPF\bin\Debug\New WPF.exe.config
+F:\CSharpProject\LearningCSharp\Timer in WPF\bin\Debug\New WPF.exe
+F:\CSharpProject\LearningCSharp\Timer in WPF\bin\Debug\New WPF.pdb
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\New WPF.csproj.AssemblyReference.cache
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\MainWindow.g.cs
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\App.g.cs
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\New WPF_MarkupCompile.cache
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\New WPF_MarkupCompile.lref
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\MainWindow.baml
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\New WPF.g.resources
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\New_WPF.Properties.Resources.resources
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\New WPF.csproj.GenerateResource.cache
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\New WPF.csproj.CoreCompileInputs.cache
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\New WPF.exe
+F:\CSharpProject\LearningCSharp\Timer in WPF\obj\Debug\New WPF.pdb
