@@ -59,29 +59,7 @@ namespace New_WPF
             Reset();
             DisplayResults();           
         }
-        #region Initialize Calculation Methods 
-        public uint CalculateSeconds(uint x)
-        {            
-            return x;
-        }
-        public uint CalculateHours(uint x)
-        {            
-           return x * 3600;
-        }
-        public uint CalculateMinutes(uint x)
-        {
-            if (x < 0)
-            {
-                x = 0; //safeguard if user puts in negative num
-            }
-            else
-            {
-                x = x * 60;
-            }
-            return x;
-        }
-        #endregion
-
+        
         #region Initialize Validation Methods 
         public bool ValidateSecondsInput()
         {//line 92 - neccessary OR statement?
@@ -133,5 +111,28 @@ namespace New_WPF
             }
         }
         #endregion       
+
+        #region Initialize Calculation Methods 
+        public uint CalculateSeconds(uint x)
+        {
+            return x;
+        }
+        public uint CalculateHours(uint x)
+        {
+            return x * 3600;
+        }
+        public uint CalculateMinutes(uint x)
+        {
+            if (x < 0)
+            {
+                x = 0; //safeguard if user puts in negative num
+            }
+            else
+            {
+                x = x * 60;
+            }
+            return x;
+        }
+        #endregion
     }
 }

@@ -9,8 +9,13 @@
     <Grid>
         <Label Content="Enter Amount of Seconds Here" HorizontalAlignment="Left" Height="25" Margin="35,19,0,0" VerticalAlignment="Top" Width="161" FontFamily="Segoe UI Black" FontSize="10"/>
         <TextBox x:Name="secondsInputBox" HorizontalAlignment="Left" Height="23" Margin="50,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderThickness="1" ClipToBounds="True"/>
-        <Button x:Name="clickConvert_Button" Content="Click Here to Convert!" HorizontalAlignment="Left" Margin="50,73,0,0" VerticalAlignment="Top" Width="120" FontFamily="Segoe UI Black" FontSize="9"/>
-        <TextBlock HorizontalAlignment="Left" Margin="83,108,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Button x:Name="convertButton" Content="Click Here to Convert!" HorizontalAlignment="Left" Margin="50,73,0,0" VerticalAlignment="Top" Width="120" FontFamily="Segoe UI Black" FontSize="9" Click="convertButton_Click"/>
+        <Label Content="Hours" HorizontalAlignment="Left" Margin="35,103,0,0" VerticalAlignment="Top"/>
+        <Label Content="Minutes" HorizontalAlignment="Left" Margin="35,134,0,0" VerticalAlignment="Top"/>
+        <Label Content="Seconds" HorizontalAlignment="Left" Margin="35,165,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="resultHrs" Content="" HorizontalAlignment="Left" Margin="99,103,0,0" VerticalAlignment="Top" Width="59" FontSize="10"/>
+        <Label x:Name="resultMin" Content="" HorizontalAlignment="Left" Margin="99,134,0,0" VerticalAlignment="Top" Width="59" FontSize="10"/>
+        <Label x:Name="resultSec" Content="" HorizontalAlignment="Left" Margin="99,165,0,0" VerticalAlignment="Top" Width="59" FontSize="10"/>
 
     </Grid>
 </Window>
