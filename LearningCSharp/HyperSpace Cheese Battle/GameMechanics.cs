@@ -27,19 +27,17 @@ namespace HyperspaceCheese
 
         static List<Player> playerList = new List<Player>(); //See PlayerUtilities.cs for player class properties
         #endregion
-        public static void ResetGame()
-        {
-            int playerNumber = 0;
-            playerList.Clear();
-            gameOver = false;
 
+        public static int PlayerSetUp(int x)
+        {
             do
             {
                 Console.Write("How many players are playing? ");
                 string numP = Console.ReadLine();
+
                 try
                 {
-                    playerNumber = int.Parse(numP);
+                    x = int.Parse(numP);
                 }
                 catch (FormatException)
                 {
@@ -49,19 +47,30 @@ namespace HyperspaceCheese
                 {
                     Console.WriteLine("That submitted number was too long. Please try again.");
                 }
-                if (playerNumber > 4 || playerNumber < 2)
+                if (x > 4 || x < 2)
                 {
                     Console.WriteLine("This game can only support between 2, 3, or 4 players!");
                 }
                 else
                 {
-                    for (int i = 0; i < playerNumber; i++)
+                    for (int i = 0; i < x; i++)
                     {
                         playerList.Add(new Player() { Number = i + 1 });
+
                     }
-                    break;
                 }
-            } while (true);
+                return x;
+            } while (x > 4 || x < 2);
+
+        }
+        public static void ResetGame()
+
+        {
+            int playerNumber = 0;
+            playerList.Clear();
+            gameOver = false;
+
+            playerNumber = PlayerSetUp(playerNumber);
         }
         #region Initializing GameMechanic Methods
         static void ShowStatus()
@@ -392,7 +401,7 @@ namespace HyperspaceCheese
             }
             //Always check to see if player has win status
             if (board[player.X, player.Y].Direction == PlayerMovement.win)
-            {   
+            {
                 Console.WriteLine("\n======================================");
                 Console.WriteLine($"Player {displayNum} wins!");
 
