@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CSharpProject\\LearningCSharp\\HyperSpace Cheese Battle\\HyperSpace Cheese Battle.csproj": {}
+    "F:\\CSharpProject\\LearningCSharp\\Read_Write_Files\\Read_Write_Files.csproj": {}
   },
   "projects": {
-    "F:\\CSharpProject\\LearningCSharp\\HyperSpace Cheese Battle\\HyperSpace Cheese Battle.csproj": {
+    "F:\\CSharpProject\\LearningCSharp\\Read_Write_Files\\Read_Write_Files.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CSharpProject\\LearningCSharp\\HyperSpace Cheese Battle\\HyperSpace Cheese Battle.csproj",
-        "projectName": "HyperSpace Cheese Battle",
-        "projectPath": "F:\\CSharpProject\\LearningCSharp\\HyperSpace Cheese Battle\\HyperSpace Cheese Battle.csproj",
+        "projectUniqueName": "F:\\CSharpProject\\LearningCSharp\\Read_Write_Files\\Read_Write_Files.csproj",
+        "projectName": "Read_Write_Files",
+        "projectPath": "F:\\CSharpProject\\LearningCSharp\\Read_Write_Files\\Read_Write_Files.csproj",
         "packagesPath": "C:\\Users\\detec\\.nuget\\packages\\",
-        "outputPath": "F:\\CSharpProject\\LearningCSharp\\HyperSpace Cheese Battle\\obj\\",
+        "outputPath": "F:\\CSharpProject\\LearningCSharp\\Read_Write_Files\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\detec\\AppData\\Roaming\\NuGet\\NuGet.Config",
