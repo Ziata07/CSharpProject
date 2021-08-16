@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HyperSpace Cheese Battle",
+    "\\Read_Write_Files",
+    "\\Read_Write_Files\\bin",
+    "\\Read_Write_Files\\bin\\Debug",
+    "\\Read_Write_Files\\bin\\Debug\\netcoreapp3.1",
+    "\\Read_Write_Files\\obj\\Debug",
+    "\\Read_Write_Files\\obj\\Debug\\netcoreapp3.1"
   ],
-  "SelectedNode": "\\LearningCSharp.sln",
+  "SelectedNode": "\\Read_Write_Files\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

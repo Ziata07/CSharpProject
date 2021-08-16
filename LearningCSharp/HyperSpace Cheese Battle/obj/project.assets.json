@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\CSharpProject\\LearningCSharp\\HyperSpace Cheese Battle\\HyperSpace Cheese Battle.csproj",
+      "projectUniqueName": "F:\\LearningProgramming\\LearningCSharp\\HyperSpace Cheese Battle\\HyperSpace Cheese Battle.csproj",
       "projectName": "HyperSpace Cheese Battle",
-      "projectPath": "F:\\CSharpProject\\LearningCSharp\\HyperSpace Cheese Battle\\HyperSpace Cheese Battle.csproj",
+      "projectPath": "F:\\LearningProgramming\\LearningCSharp\\HyperSpace Cheese Battle\\HyperSpace Cheese Battle.csproj",
       "packagesPath": "C:\\Users\\detec\\.nuget\\packages\\",
-      "outputPath": "F:\\CSharpProject\\LearningCSharp\\HyperSpace Cheese Battle\\obj\\",
+      "outputPath": "F:\\LearningProgramming\\LearningCSharp\\HyperSpace Cheese Battle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\detec\\AppData\\Roaming\\NuGet\\NuGet.Config",

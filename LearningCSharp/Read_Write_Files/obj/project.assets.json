@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\CSharpProject\\LearningCSharp\\Read_Write_Files\\Read_Write_Files.csproj",
+      "projectUniqueName": "F:\\LearningProgramming\\LearningCSharp\\Read_Write_Files\\Read_Write_Files.csproj",
       "projectName": "Read_Write_Files",
-      "projectPath": "F:\\CSharpProject\\LearningCSharp\\Read_Write_Files\\Read_Write_Files.csproj",
+      "projectPath": "F:\\LearningProgramming\\LearningCSharp\\Read_Write_Files\\Read_Write_Files.csproj",
       "packagesPath": "C:\\Users\\detec\\.nuget\\packages\\",
-      "outputPath": "F:\\CSharpProject\\LearningCSharp\\Read_Write_Files\\obj\\",
+      "outputPath": "F:\\LearningProgramming\\LearningCSharp\\Read_Write_Files\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\detec\\AppData\\Roaming\\NuGet\\NuGet.Config",

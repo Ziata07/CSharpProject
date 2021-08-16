@@ -11,3 +11,17 @@ F:\CSharpProject\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Wr
 F:\CSharpProject\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Write_Files.dll
 F:\CSharpProject\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Write_Files.pdb
 F:\CSharpProject\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Write_Files.genruntimeconfig.cache
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\bin\Debug\netcoreapp3.1\Read_Write_Files.exe
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\bin\Debug\netcoreapp3.1\Read_Write_Files.deps.json
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\bin\Debug\netcoreapp3.1\Read_Write_Files.runtimeconfig.json
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\bin\Debug\netcoreapp3.1\Read_Write_Files.runtimeconfig.dev.json
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\bin\Debug\netcoreapp3.1\Read_Write_Files.dll
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\bin\Debug\netcoreapp3.1\Read_Write_Files.pdb
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Write_Files.csproj.AssemblyReference.cache
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Write_Files.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Write_Files.AssemblyInfoInputs.cache
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Write_Files.AssemblyInfo.cs
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Write_Files.csproj.CoreCompileInputs.cache
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Write_Files.dll
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Write_Files.pdb
+F:\LearningProgramming\LearningCSharp\Read_Write_Files\obj\Debug\netcoreapp3.1\Read_Write_Files.genruntimeconfig.cache

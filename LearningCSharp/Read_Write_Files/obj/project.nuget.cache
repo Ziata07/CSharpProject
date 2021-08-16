@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uN2l1C0V7MBeH1457lxRlQ3gMqYb6K2zLgrjipKa7lvaWE87YMYeCENsRAkFT6MEckdDz3Nf8mN9fNLjSD2HGA==",
+  "dgSpecHash": "Pw7p3aMDkAGabFs1/pqMKmGoC7qvarmlnk9IlVWwA3EZwTzmemTxZn74KXNXiZv/djIjy/yt694y8W1XwLrQuA==",
   "success": true,
-  "projectFilePath": "F:\\CSharpProject\\LearningCSharp\\Read_Write_Files\\Read_Write_Files.csproj",
+  "projectFilePath": "F:\\LearningProgramming\\LearningCSharp\\Read_Write_Files\\Read_Write_Files.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
