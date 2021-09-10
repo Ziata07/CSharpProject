@@ -1,0 +1,9 @@
+F:\LearningProgramming\LearningCSharp\Dodgy_Dice_Project\bin\Debug\Dodgy_Dice_Project.exe.config
+F:\LearningProgramming\LearningCSharp\Dodgy_Dice_Project\bin\Debug\Dodgy_Dice_Project.exe
+F:\LearningProgramming\LearningCSharp\Dodgy_Dice_Project\bin\Debug\Dodgy_Dice_Project.pdb
+F:\LearningProgramming\LearningCSharp\Dodgy_Dice_Project\obj\Debug\Dodgy_Dice_Project.csproj.AssemblyReference.cache
+F:\LearningProgramming\LearningCSharp\Dodgy_Dice_Project\obj\Debug\Dodgy_Dice_Project.csproj.CoreCompileInputs.cache
+F:\LearningProgramming\LearningCSharp\Dodgy_Dice_Project\obj\Debug\Dodgy_Dice_Project.exe
+F:\LearningProgramming\LearningCSharp\Dodgy_Dice_Project\obj\Debug\Dodgy_Dice_Project.pdb
+F:\LearningProgramming\LearningCSharp\Dodgy_Dice_Project\bin\Debug\DiceLibrary.dll
+F:\LearningProgramming\LearningCSharp\Dodgy_Dice_Project\obj\Debug\Dodgy_Dice_Project.csproj.CopyComplete

@@ -5,11 +5,12 @@ namespace Read_Write_Files
 {
     class Test_ReadFile
     {
-        static void Main()
+        static void Main_0()
         {
-           string[] ar;
-
-            ar = System.IO.File.ReadAllLines("F:\\LearningProgramming\\LearningCSharp\\Read_Write_Files\\NotepadFolder\\Even_Odd_File.txt");
+           //string[] ar;
+           // This File.ReadAlLAlines will load the ENTIRE document.
+           // Potentially millions of lines and store it in memory, which would crash!
+           // ar = System.IO.File.ReadAllLines("F:\\LearningProgramming\\LearningCSharp\\Read_Write_Files\\NotepadFolder\\Even_Odd_File.txt");
             string x;
             int y;
           
@@ -25,7 +26,9 @@ namespace Read_Write_Files
                 }
                 x = streamReader.ReadLine();
 
-            } while (int.TryParse(x, out y));          
+            } while (int.TryParse(x, out y));
+
+            
         }
     }
 }

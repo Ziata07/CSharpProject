@@ -9,7 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown Time Calculator",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Countdown Time Calculator", "Reverse Countdown Time Calculator\Reverse Countdown Time Calculator.csproj", "{DC5BCAED-DF1D-4D40-96DA-3E313227630C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read_Write_Files", "Read_Write_Files\Read_Write_Files.csproj", "{614CE7ED-744C-471E-8A41-ED026C3BCC93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Read_Write_Files", "Read_Write_Files\Read_Write_Files.csproj", "{614CE7ED-744C-471E-8A41-ED026C3BCC93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dodgy_Dice_Project", "Dodgy_Dice_Project\Dodgy_Dice_Project.csproj", "{7C5883CE-CDC5-4583-9613-23218D81D287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fair_Dice", "Fair_Dice\Fair_Dice.csproj", "{6E23AABF-B60F-40E6-A5F1-275DE44CC864}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{614CE7ED-744C-471E-8A41-ED026C3BCC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{614CE7ED-744C-471E-8A41-ED026C3BCC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{614CE7ED-744C-471E-8A41-ED026C3BCC93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5883CE-CDC5-4583-9613-23218D81D287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5883CE-CDC5-4583-9613-23218D81D287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5883CE-CDC5-4583-9613-23218D81D287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5883CE-CDC5-4583-9613-23218D81D287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E23AABF-B60F-40E6-A5F1-275DE44CC864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E23AABF-B60F-40E6-A5F1-275DE44CC864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E23AABF-B60F-40E6-A5F1-275DE44CC864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E23AABF-B60F-40E6-A5F1-275DE44CC864}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
