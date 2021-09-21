@@ -9,11 +9,15 @@ namespace Dodgy_Dice_Project
         {
             double averageSpots = 0;
             DiceClass dice = new DiceClass();
+            dice.AddPlayer("Rob");
+            dice.NextPlayerRoll(out string y , 6);
 
             for (int x = 0; x < 1000; x++)
             {
                 dice.SetPlayer("Fred");
                 averageSpots += dice.IntSpots();
+                
+
 
                 if (x == 999)
                 {
