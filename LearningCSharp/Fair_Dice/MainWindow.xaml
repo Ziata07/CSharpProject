@@ -5,8 +5,25 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Fair_Dice"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Fair Dice Game" Height="362" Width="643">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="192*"/>
+            <ColumnDefinition Width="451*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="Player_Name_Label" Content="Player(s)" HorizontalAlignment="Left" Margin="10,105,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Height="26" Width="54"/>
+        <Button x:Name="rollDieButton" Content="Click to Roll" HorizontalAlignment="Left" Margin="40,233,0,0" VerticalAlignment="Top" Click="rollDieButton_Click" Grid.Column="1" Height="20" Width="66"/>
+        <Label x:Name="resultsLabel" Content="" HorizontalAlignment="Left" Height="49" Margin="31,156,0,0" VerticalAlignment="Top" Width="75" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderBrush="#FF2C2B2B" BorderThickness="1,1,1,1" Grid.Column="1"/>
+        <TextBox x:Name="totalPlayersTextBox" HorizontalAlignment="Left" Margin="58,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="35" Height="32" Grid.Column="1" TextAlignment="Center"/>
+        <Label x:Name="TotalPlayersLabel" Content="How many players are playing:" HorizontalAlignment="Left" Margin="0,14,0,0" VerticalAlignment="Top" Height="44" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsEnabled="False" FontWeight="Bold" FontStyle="Normal" Width="184"/>
+        <Button x:Name="confirmPlayersButton" Content="Click to Confirm" HorizontalAlignment="Left" Margin="31,63,0,0" VerticalAlignment="Top" Click="confirmPlayersButton_Click" Grid.Column="1" Height="20" Width="89"/>
+        <ListView x:Name="PlayerList" Margin="64,118,32,0" VerticalAlignment="Top" UseLayoutRounding="True" Height="135">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
 
     </Grid>
 </Window>
