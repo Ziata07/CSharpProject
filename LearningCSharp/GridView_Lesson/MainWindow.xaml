@@ -1,0 +1,36 @@
+﻿<Window x:Class="GridView_Lesson.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GridView_Lesson"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid x:Name="TestGrid" Margin="209,80,209,137" Background="#FFBB5151" ShowGridLines="True">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <ListView Margin="75,40,76,40" HorizontalAlignment="Center" VerticalAlignment="Stretch" BorderThickness="2,1,1,0" RenderTransformOrigin="0.5,0.5" FontWeight="Normal" ScrollViewer.VerticalScrollBarVisibility="Auto" Padding="1,0,0,0" Background="{DynamicResource {x:Static SystemColors.WindowBrushKey}}">
+                <ListView.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="1"/>
+                        <SkewTransform AngleX="0"/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </ListView.RenderTransform>
+                <ListView.View>
+                    <GridView AllowsColumnReorder="True" ColumnHeaderStringFormat="Test">
+                        <GridViewColumn Header="EEE" Width="100"/>
+                        <GridViewColumn Header="Column 2" Width="100"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+
+    </Grid>
+</Window>

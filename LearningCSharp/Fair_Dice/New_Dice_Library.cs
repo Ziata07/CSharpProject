@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 /// <summary>
 /// Make a new, FAIR dice that players can roll. Let the player have a name 
 /// </summary>
@@ -11,13 +9,15 @@ namespace Fair_Dice
 	{
 		private string playerName;
 		private int roll;
-		private Random rollResult = new Random(1);
+		private Random rollResult = new Random();
+		private int diceSides;
+		public bool checkIfRolled { get; set; }
 
-		//private List<New_Dice> totalPlayers = new List<New_Dice>();
 		public New_Dice()
 		{
-			playerName = "default";
+			playerName = "Player";
 			roll = 0;
+			checkIfRolled = false;			
 		}
 		public New_Dice(string playerName, int roll)
 		{
@@ -29,23 +29,26 @@ namespace Fair_Dice
 		{
 			return playerName;
 		}
-		//internal string Add_Player(string playerName)
-		//{
-		//    Console.Write("Player name is: " + playerName);
-
-		//    totalPlayers.Add(new New_Dice() { playerName = this.playerName });
-		//    return playerName;
-		//}
-
-		//public void Clear_Players()
-		//{
-		//    totalPlayers.Clear();
-		//}
-
-		protected int ReturnRoll()
+		internal void SetPlayerName(string x)
 		{
-			return roll = rollResult.Next(1, 6);
+			this.playerName = x;
 		}
 
+		internal int GetRoll()
+		{
+			return roll;
+		}
+		internal void SetDiceSides(int x)
+		{
+			this.diceSides = x;
+		}
+		internal int GetDiceSides()
+		{
+			return diceSides;
+		}
+		public int ReturnRoll()
+		{
+			return roll = rollResult.Next(1, diceSides);
+		}
 	}
 }
