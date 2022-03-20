@@ -1,4 +1,5 @@
 ﻿using System.Windows;
+using System;
 
 namespace Reverse_Countdown_Time_Calculator
 {
@@ -10,9 +11,10 @@ namespace Reverse_Countdown_Time_Calculator
     public partial class MainWindow : Window
     {
         uint secondsEntry;
+        
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();                      
         }
 
         private void convertButton_Click(object sender, RoutedEventArgs e)
@@ -38,7 +40,7 @@ namespace Reverse_Countdown_Time_Calculator
         #region Initialize Calculations Methods
         public uint CalculateHours(uint x)
         {
-            return x / 3600;
+            return x / 3600;           
         }
         public uint CalculateSecondsFromHours(uint x)
         {

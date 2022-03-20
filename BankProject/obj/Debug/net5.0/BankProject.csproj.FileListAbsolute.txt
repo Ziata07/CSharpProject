@@ -1,0 +1,16 @@
+F:\LearningProgramming\BankProject\bin\Debug\net5.0\BankProject.exe
+F:\LearningProgramming\BankProject\bin\Debug\net5.0\BankProject.deps.json
+F:\LearningProgramming\BankProject\bin\Debug\net5.0\BankProject.runtimeconfig.json
+F:\LearningProgramming\BankProject\bin\Debug\net5.0\BankProject.runtimeconfig.dev.json
+F:\LearningProgramming\BankProject\bin\Debug\net5.0\BankProject.dll
+F:\LearningProgramming\BankProject\bin\Debug\net5.0\ref\BankProject.dll
+F:\LearningProgramming\BankProject\bin\Debug\net5.0\BankProject.pdb
+F:\LearningProgramming\BankProject\obj\Debug\net5.0\BankProject.csproj.AssemblyReference.cache
+F:\LearningProgramming\BankProject\obj\Debug\net5.0\BankProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearningProgramming\BankProject\obj\Debug\net5.0\BankProject.AssemblyInfoInputs.cache
+F:\LearningProgramming\BankProject\obj\Debug\net5.0\BankProject.AssemblyInfo.cs
+F:\LearningProgramming\BankProject\obj\Debug\net5.0\BankProject.csproj.CoreCompileInputs.cache
+F:\LearningProgramming\BankProject\obj\Debug\net5.0\BankProject.dll
+F:\LearningProgramming\BankProject\obj\Debug\net5.0\ref\BankProject.dll
+F:\LearningProgramming\BankProject\obj\Debug\net5.0\BankProject.pdb
+F:\LearningProgramming\BankProject\obj\Debug\net5.0\BankProject.genruntimeconfig.cache

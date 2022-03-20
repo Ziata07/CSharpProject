@@ -1,4 +1,5 @@
 ﻿using System.Windows;
+using System;
 
 namespace New_WPF
 {
@@ -12,22 +13,25 @@ namespace New_WPF
     {
         #region Initializing variables
         uint secEntry;
-         uint minEntry;
-         uint hrsEntry;
-         uint result;
+        uint minEntry;
+        uint hrsEntry;
+        uint result;
+        
         #endregion
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();            
         }
         public void DisplayResults()
         {
+            
+
             if (!ValidateSecondsInput())
             {
                 MessageBox.Show("Invalid Entry For: Seconds");
             }
             else
-            {
+            {               
                 result += CalculateSeconds(secEntry);
             }
             if (!ValidateHoursInput())
@@ -62,11 +66,11 @@ namespace New_WPF
         
         #region Initialize Validation Methods 
         public bool ValidateSecondsInput()
-        {//line 92 - neccessary OR statement?
+        {
             string secondsInput = secTextBox.Text;
             uint x;
 
-            if (!uint.TryParse(secondsInput, out x) || secondsInput == null)
+            if (!uint.TryParse(secondsInput, out x))
             {
                 return false;
             }
@@ -122,16 +126,8 @@ namespace New_WPF
             return x * 3600;
         }
         public uint CalculateMinutes(uint x)
-        {
-            if (x < 0)
-            {
-                x = 0; //safeguard if user puts in negative num
-            }
-            else
-            {
-                x = x * 60;
-            }
-            return x;
+        {           
+            return x * 60;
         }
         #endregion
     }

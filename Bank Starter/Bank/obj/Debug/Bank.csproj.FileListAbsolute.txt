@@ -1,0 +1,12 @@
+C:\Users\Rob\Desktop\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\Rob\Desktop\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\Rob\Desktop\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\Rob\Desktop\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\Rob\Desktop\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\Rob\SkyDrive\2013-2014 Year\08120 Programming 2\Week 31 Creating a Bank\lab\Bank Starter\Bank\bin\Debug\Bank.exe.config
+C:\Users\Rob\SkyDrive\2013-2014 Year\08120 Programming 2\Week 31 Creating a Bank\lab\Bank Starter\Bank\obj\Debug\Bank.exe
+C:\Users\Rob\SkyDrive\2013-2014 Year\08120 Programming 2\Week 31 Creating a Bank\lab\Bank Starter\Bank\obj\Debug\Bank.pdb
+C:\Users\Rob\SkyDrive\2013-2014 Year\08120 Programming 2\Week 31 Creating a Bank\lab\Bank Starter\Bank\bin\Debug\Bank.exe
+C:\Users\Rob\SkyDrive\2013-2014 Year\08120 Programming 2\Week 31 Creating a Bank\lab\Bank Starter\Bank\bin\Debug\Bank.pdb
+C:\Users\Rob\SkyDrive\2013-2014 Year\08120 Programming 2\Week 31 Creating a Bank\lab\Bank Starter\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache

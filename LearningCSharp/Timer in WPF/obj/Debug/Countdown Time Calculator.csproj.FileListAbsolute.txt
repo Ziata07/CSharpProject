@@ -1,0 +1,15 @@
+F:\LearningProgramming\LearningCSharp\Timer in WPF\bin\Debug\New WPF.exe.config
+F:\LearningProgramming\LearningCSharp\Timer in WPF\bin\Debug\New WPF.exe
+F:\LearningProgramming\LearningCSharp\Timer in WPF\bin\Debug\New WPF.pdb
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\Countdown Time Calculator.csproj.AssemblyReference.cache
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\MainWindow.g.cs
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\App.g.cs
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\New WPF_MarkupCompile.cache
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\New WPF_MarkupCompile.lref
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\MainWindow.baml
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\New WPF.g.resources
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\New_WPF.Properties.Resources.resources
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\Countdown Time Calculator.csproj.GenerateResource.cache
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\Countdown Time Calculator.csproj.CoreCompileInputs.cache
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\New WPF.exe
+F:\LearningProgramming\LearningCSharp\Timer in WPF\obj\Debug\New WPF.pdb

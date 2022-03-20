@@ -13,3 +13,18 @@ F:\CSharpProject\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reve
 F:\CSharpProject\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse Countdown Time Calculator.csproj.CoreCompileInputs.cache
 F:\CSharpProject\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse Countdown Time Calculator.exe
 F:\CSharpProject\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse Countdown Time Calculator.pdb
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\bin\Debug\Reverse Countdown Time Calculator.exe.config
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\bin\Debug\Reverse Countdown Time Calculator.exe
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\bin\Debug\Reverse Countdown Time Calculator.pdb
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse Countdown Time Calculator.csproj.AssemblyReference.cache
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\MainWindow.g.cs
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\App.g.cs
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse Countdown Time Calculator_MarkupCompile.cache
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse Countdown Time Calculator_MarkupCompile.lref
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\MainWindow.baml
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse Countdown Time Calculator.g.resources
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse_Countdown_Time_Calculator.Properties.Resources.resources
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse Countdown Time Calculator.csproj.GenerateResource.cache
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse Countdown Time Calculator.csproj.CoreCompileInputs.cache
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse Countdown Time Calculator.exe
+F:\LearningProgramming\LearningCSharp\Reverse Countdown Time Calculator\obj\Debug\Reverse Countdown Time Calculator.pdb
