@@ -12,17 +12,20 @@ namespace BankProject
 		public string UserAddress { get; set; }
 		private string accountID;
 		public string UserName { get; set; }
+
 		public void SetAccountBalanceValue()
 		{
 			Random num = new Random();
 			balanceValue = num.Next(0, 1000);
 		}
+
 		private void SetAccountID()
 		{
 			Guid x = Guid.NewGuid();//creates a new Guid
 			string newId = x.ToString("N");
 			accountID = newId;
 		}
+
 		public Account()//Constructor
 		{
 			AccountName = "Checking Account";
@@ -30,6 +33,7 @@ namespace BankProject
 			UserName = "User";
 			SetAccountID();
 		}
+
 		public Account(string userName)//Constructor
 		{
 			UserName = userName;
@@ -43,8 +47,8 @@ namespace BankProject
 		public void DisplayAccountInfo()
 		{
 			Console.WriteLine($"Account Name: {AccountName}\nAccount Number: {accountID}\nAccount Address: {UserAddress}\nAccount Balance: {balanceValue.ToString("C")}\n");
-			//.toString("C") = currency
 		}
+
 		public void DisplayAccountBalance()
 		{
 			Console.WriteLine($"Account Balance: {balanceValue.ToString("C")}");
@@ -54,9 +58,9 @@ namespace BankProject
 		{
 			using (text)//new variable made for SW
 			{
-				string jsonString = JsonSerializer.Serialize(AccountName);
-				text.Write(jsonString);
-				//text.Write($" This account belongs to: {UserName}\nAccount Name: {AccountName}\nAccount Address {UserAddress}\nAccount Balance: {balanceValue.ToString("C")}");
+				//string jsonString = JsonSerializer.Serialize(AccountName);
+				//text.Write(jsonString);
+				text.Write($" This account belongs to: {UserName}\nAccount Name: {AccountName}\nAccount Address {UserAddress}\nAccount Balance: {balanceValue.ToString("C")}");
 			}
 		}
 	}
