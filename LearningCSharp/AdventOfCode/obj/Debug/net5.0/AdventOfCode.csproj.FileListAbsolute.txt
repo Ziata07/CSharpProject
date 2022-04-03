@@ -1,0 +1,16 @@
+F:\LearningProgramming\LearningCSharp\AdventOfCode\bin\Debug\net5.0\AdventOfCode.exe
+F:\LearningProgramming\LearningCSharp\AdventOfCode\bin\Debug\net5.0\AdventOfCode.deps.json
+F:\LearningProgramming\LearningCSharp\AdventOfCode\bin\Debug\net5.0\AdventOfCode.runtimeconfig.json
+F:\LearningProgramming\LearningCSharp\AdventOfCode\bin\Debug\net5.0\AdventOfCode.runtimeconfig.dev.json
+F:\LearningProgramming\LearningCSharp\AdventOfCode\bin\Debug\net5.0\AdventOfCode.dll
+F:\LearningProgramming\LearningCSharp\AdventOfCode\bin\Debug\net5.0\ref\AdventOfCode.dll
+F:\LearningProgramming\LearningCSharp\AdventOfCode\bin\Debug\net5.0\AdventOfCode.pdb
+F:\LearningProgramming\LearningCSharp\AdventOfCode\obj\Debug\net5.0\AdventOfCode.csproj.AssemblyReference.cache
+F:\LearningProgramming\LearningCSharp\AdventOfCode\obj\Debug\net5.0\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+F:\LearningProgramming\LearningCSharp\AdventOfCode\obj\Debug\net5.0\AdventOfCode.AssemblyInfoInputs.cache
+F:\LearningProgramming\LearningCSharp\AdventOfCode\obj\Debug\net5.0\AdventOfCode.AssemblyInfo.cs
+F:\LearningProgramming\LearningCSharp\AdventOfCode\obj\Debug\net5.0\AdventOfCode.csproj.CoreCompileInputs.cache
+F:\LearningProgramming\LearningCSharp\AdventOfCode\obj\Debug\net5.0\AdventOfCode.dll
+F:\LearningProgramming\LearningCSharp\AdventOfCode\obj\Debug\net5.0\ref\AdventOfCode.dll
+F:\LearningProgramming\LearningCSharp\AdventOfCode\obj\Debug\net5.0\AdventOfCode.pdb
+F:\LearningProgramming\LearningCSharp\AdventOfCode\obj\Debug\net5.0\AdventOfCode.genruntimeconfig.cache
